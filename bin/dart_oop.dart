@@ -7,7 +7,7 @@ void main(List<String> args) async {
 }
 
 class User {
-  int age = 0;
+  int age = 10;
 }
 
 class UserManager {
